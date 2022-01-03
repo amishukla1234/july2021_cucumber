@@ -1,0 +1,4 @@
+pages\DashboardBankCashPage.class
+pages\DatabasePage.class
+pages\LoginPage.class
+pages\TestBase.class
